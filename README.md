@@ -53,3 +53,7 @@ I recommend these links to learn more about manifest
 - [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 - [Developers Google](https://developers.google.com/web/fundamentals/web-app-manifest)
 
+## Chapter 2 - Service Worker
+
+Service Worker is a script running in background to do tasks like push notification and etc, with this script our webapp can work offline.
+
